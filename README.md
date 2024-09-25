@@ -72,6 +72,6 @@ In the initial data preparation phase, we completed the following tasks:
 #### 8. RATING BY GENDER
 - Non-binary employees generally have higher satisfaction with more "very good" ratings and fewer negative ratings. Males show higher percentages of "poor" and "very poor" ratings, suggesting a need for improvement. Females exhibit balanced satisfaction with high ratings and fewer extreme negatives.
 
-### 8. INSIGHT AND DASHBOARD
-
+### INSIGHT AND DASHBOARD
+---
 [PALMORIA MANUFACTURING GROUP PP.pptx](https://github.com/user-attachments/files/17128795/PALMORIA.MANUFACTURING.GROUP.PP.pptx)
